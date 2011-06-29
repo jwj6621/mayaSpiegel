@@ -7,6 +7,9 @@
 #ifndef mayaSpiegelFormatWriter_h_
 #define mayaSpiegelFormatWriter_h_
 
+using namespace std;
+
+
 class mayaSpiegelFormatWriter 
 {
 

@@ -21,7 +21,7 @@ public:
 	
 	bool addParticleCluster(string*, vector<double[4] >*, int);
 	bool addParticleClusters(vector<string>*, vector<vector<double[4]> >*, vector<int>*, int);
-	bool addParticleClusters(vector<string>*, vector<vector<double[4]> >*, vector<int>*, vector<vector<double[4]> >*, int);
+	//bool addParticleClusters(vector<string>*, vector<vector<double[4]> >*, vector<int>*, vector<vector<double[4]> >*, int);
 	
 	
 	/*

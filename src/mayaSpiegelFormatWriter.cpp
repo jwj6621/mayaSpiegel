@@ -3,8 +3,8 @@
 
 using namespace std;
 
-
-static bool mayaSpiegelFormatWriter::writeMSF( string inSimFileName, string outDir)
+/*
+bool mayaSpiegelFormatWriter::writeMSF( string inSimFileName, string outDir)
 {
 
   
@@ -23,3 +23,4 @@ x
   
   return status;
 }
+*/
